@@ -13,37 +13,37 @@ export const CORE_VALUES: CoreValue[] = [
   {
     greek: 'Eirene',
     english: 'Peace',
-    description: 'Serenity as the foundation of health and prosperity.',
+    description: 'More than mere silence, Eirene is the active cultivation of inner stillness. It is the sanctuary where the restless mind settles and the nervous system exhales, allowing the body’s innate intelligence to begin its profound work of repair.',
     icon: Leaf
   },
   {
     greek: 'Iaso',
     english: 'Healing',
-    description: 'Gentle restoration through holistic practices.',
+    description: 'Named for the goddess of recuperation, this pillar embodies the art of gentle restoration. We believe true healing is not forced, but unveiled—nurtured through rest, connection with nature, and soft, intentional therapies.',
     icon: Heart
   },
   {
     greek: 'Ambrosia',
     english: 'Nourishment',
-    description: 'Food as ritual, medicine, and joy.',
+    description: 'In myth, it conferred immortality. For us, it represents the wisdom of high-vibrational sustenance. We treat every meal as a sacred ritual, transforming biological necessity into a source of radiant energy and joy.',
     icon: Utensils
   },
   {
     greek: 'Palingenesis',
     english: 'Renewal',
-    description: 'Detox as rebirth into clarity and strength.',
+    description: 'The ancient concept of rebirth. We guide you through the shedding of old layers—stress, toxins, and fatigue—to emerge revitalized, with a clarity of purpose and vitality that feels like a new life beginning.',
     icon: Zap
   },
   {
     greek: 'Sophrosyne',
     english: 'Harmony',
-    description: 'Balance in all aspects of living.',
+    description: 'The elegant balance between enjoyment and discipline. It is a soundness of mind that allows one to navigate the modern world with grace, moderation, and deep alignment between one’s values and actions.',
     icon: Scale
   },
   {
     greek: 'Agape',
     english: 'Community',
-    description: 'Connection and compassion as pathways to collective flourishing.',
+    description: 'The highest form of love—selfless and universal. We foster a space where genuine connection becomes the antidote to modern isolation, reminding us that we flourish best when we flourish together.',
     icon: Users
   },
 ];
